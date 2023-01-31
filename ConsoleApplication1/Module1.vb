@@ -2,7 +2,7 @@
 
     Sub Main()
         Dim c As String
-        c = ""
+        c = "c"
     End Sub
 
 End Module
